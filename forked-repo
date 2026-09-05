@@ -1,0 +1,18 @@
+D:\Coursera>git clone https://github.com/Sarthak7458/mcino-Introduction-to-Git-and-GitHub.git
+Cloning into 'mcino-Introduction-to-Git-and-GitHub'...
+remote: Enumerating objects: 35, done.
+remote: Total 35 (delta 0), reused 0 (delta 0), pack-reused 35 (from 1)
+Receiving objects: 100% (35/35), 17.46 KiB | 2.49 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+
+D:\Coursera>cd mcino-Introduction-to-Git-and-GitHub
+
+D:\Coursera\mcino-Introduction-to-Git-and-GitHub>git remote -v
+origin  https://github.com/Sarthak7458/mcino-Introduction-to-Git-and-GitHub.git (fetch)
+origin  https://github.com/Sarthak7458/mcino-Introduction-to-Git-and-GitHub.git (push)
+
+D:\Coursera\mcino-Introduction-to-Git-and-GitHub>git remote -v
+origin  https://github.com/Sarthak7458/mcino-Introduction-to-Git-and-GitHub.git (fetch)
+origin  https://github.com/Sarthak7458/mcino-Introduction-to-Git-and-GitHub.git (push)
+
+D:\Coursera\mcino-Introduction-to-Git-and-GitHub>
